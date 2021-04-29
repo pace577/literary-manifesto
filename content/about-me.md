@@ -5,6 +5,7 @@ draft: false
 layout: mainpage
 ---
 
+
 To me, writing isn't just a means for communication. It's a tool for retrospection, a mechanism for change. Words have the power to connect like minded people. And the best part is when the reader comes back and talks to you about what you wrote!
 
 I wrote stories and articles but somehow ended up not sharing them publicly. That ended with [Udaan](https://udaaniitt.web.app/) (It's an amazing newsletter and it's growing, so please go read it if you haven't yet!) and hopefully some new articles will see daylight. I also started writing poems lately and I'm constantly afraid that I'll share these poems online by accident and stain the internet.
@@ -29,3 +30,5 @@ If you're satisfied, then wow. Thanks!
 After reading the manifesto, you might say "Oh, all that sounds good Prabhat, but why should I believe you'll do what you say?". That's a perfectly reasonable thought to have, but if you had that thought, then it's very likely that you don't know me personally. I'm not sure if I can convince you otherwise, but you can contact me via the following means. I'm up for a talk anytime!
 - Mail (ee18b022@iittp.ac.in)
 - Phone (7032258200 - I prefer Signal, but I'm available on WhatsApp as well). 
+
+{{< figure src="/literary-manifesto/my_photo.jpeg" height="300px">}}
