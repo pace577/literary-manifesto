@@ -7,9 +7,11 @@ layout: mainpage
 
 To me, writing isn't just a means for communication. It's a tool for retrospection, a mechanism for change. Words have the power to connect like minded people. And the best part is when the reader comes back and talks to you about what you wrote!
 
-I wrote stories and articles but somehow ended up not sharing them publicly. That ended with Udaan (It's an amazing newsletter and it's growing, so please go read it if you haven't yet!) and hopefully some new articles will see daylight. I also started writing poems lately and I'm constantly afraid that I'll share these poems online by accident and stain the internet.
+I wrote stories and articles but somehow ended up not sharing them publicly. That ended with [Udaan](https://udaaniitt.web.app/) (It's an amazing newsletter and it's growing, so please go read it if you haven't yet!) and hopefully some new articles will see daylight. I also started writing poems lately and I'm constantly afraid that I'll share these poems online by accident and stain the internet.
 
 I wanted to stand for the Literary Affairs Secretary post because I want do something that would make more people see the beauty of words. There are those who are interested to learn public speaking, but are scared to learn due to no experience. Some are good with words, but aren't able to find a community of people like them. Some of them are *brilliant* writers, but don't have a platform to display their art for people to see. I want to help these people and bring more people into the community, but I don't think it's simple. We have a wide range of thoughts and opinions, and we need proper planning to accommodate them. I have a few ideas up my sleeve (you can see a few of them in the manifesto), and I'm always open to more inputs!
+
+Unfortunately I'm also a calm minded workaholic having an excessive obsession for documentation and detail. While this doesn't help my quality of life at all, I have a feeling this job could use a bit of that. Fingers crossed.
 
 ## Contributions
 Since I don't have a certificate from an authorized university, or an *extremely* accurate metric like CGPA to prove my ability, I'm going to show you a list of my contributions to the institute, hoping that this will somehow suffice.
