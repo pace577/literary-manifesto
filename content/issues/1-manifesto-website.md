@@ -4,7 +4,7 @@ date: 2021-04-23T16:29:36+05:30
 draft: false
 ---
 
-This is not just a *manifesto* but also an evolving list of ideas, which means that new ideas are added, outdated ideas are scrapped, and all progress about it's implementation is continuously updated. I chose a website over other alternatives as there is high potential for customizability, and we have no shortage of techies in our institute! I encourage everyone who likes this idea to make use of it yourself, and improve on it if possible! If anyone wants to put up a similar site for their uses, you can access its source code here.
+This is not just a *manifesto* but also an evolving list of ideas, which means that new ideas are added, outdated ideas are scrapped, and all progress about it's implementation is continuously updated. I chose a website over other alternatives as there is high potential for customizability, and we have no shortage of techies in our institute! I encourage everyone who likes this idea to make use of it yourself, and improve on it if possible! If anyone wants to put up a similar site for their uses, you can access its source code [here](https://github.com/pace577/literary-manifesto).
 
 ## Why a website?
 The intention is to maintain **transparency** and **accountability** i.e. transparency in the work done and accountability of people in charge of the work. 

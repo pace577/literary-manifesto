@@ -5,17 +5,17 @@ draft: false
 layout: mainpage
 ---
 
-I am Prabhat, a third year undergraduate student from the Electrical Engineering department (Batch of 2018). I am contesting for the post of Literary affairs secretary (LAS) in the Student Elections 2021-22 and this is my manifesto. 
+I am Prabhat, a third year undergraduate student from the Electrical Engineering department (Batch of 2018). I am contesting for the post of Literary affairs secretary (LAS) in the Student Elections 2021-22 and this is my humble manifesto. 
 
-<!-- For those who are interested in my previous work, [this page](/about-me) describes some of it briefly. To know why the manifesto is on a web page, read [this](/literary-manifesto/issues/1-manifesto-website). -->
+<!-- For those who are interested in my previous work, [this page](/literary-manifesto/about-me) describes some of it briefly. To know why the manifesto is on a web page, read [this](/literary-manifesto/issues/1-manifesto-website). -->
 
 ## Intention
 The executive wing has done a very good job over the years in developing a literary environment in our college. We have a debating club, a quizzing club, a film club, a student newsletter, a good set of leisure reading books in the library, along with multiple literary events with prizes held around the year. My intention is to fine tune these establishments further, and introduce events to encourage participation and enable people to hone their skills on various literary fronts.
 
-I believe honesty takes precedence over diplomacy here, so please allow me to be a little informal. There are a few changes that I want to establish, but I'm expecting most of the ideas to come from you (We all are students of IITT after all!). My role would be to give these ideas a shape and facilitate the execution of these ideas.
+I believe honesty takes precedence over diplomacy here, so please allow me to be a little informal. Things are nice, but they can be much better. There are a few changes that I want to work on, but I'm expecting most of the ideas to come from you (We all are students of IITT after all!). My role would be to give these ideas a shape and facilitate their execution. Enough generic talk, I'll cut to the chase.
 
 ## Improvements on the literary front
-I want to make it clear that I don't want to make guarantees that I can't fulfill. The pandemic situation is dynamic, and I think we too should be quick on our feet and grab opportunities as soon as we can. The following is a list of initiatives I plan to work on.
+This is the part where I'm supposed to give you guarantees I'll never fulfill. Sadly I can't do that, I love making things better a little too much. So what I'm going to give you instead is a list of initiatives that I plan to work on, and more ideas can be appended to this list anytime!
 
 - Establish a **Literary club** to build a community of readers, writers, poets and anyone interested in any form of literature, to share knowledge and get better together. It's also a place for book lovers, where you can share the books that you love reading and get suggestions from other enthusiasts in the club.
 - There are many many people interested in speaking and writing, but are not confident in their abilities. I believe the *learning by doing* is the most effective, and I plan to organize plenty of **activities for beginners** aimed at developing their speaking and writing skills. This includes **interaction sessions**, **open mics** and different kinds of **workshops** for interview preparation (in collaboration with CDC).
@@ -27,9 +27,10 @@ I want to make it clear that I don't want to make guarantees that I can't fulfil
 - Provide **opportunities to conduct events** to *any* interested student. Read more about this [here](/literary-manifesto/issues/2-decentralized-events).
 - If we happen to come back to the campus next semester, I'll try to bring together a **book sharing community**. There are so many book readers in our institute, even among the faculty. Once that's done, no one will have to worry about where to ask for book suggestions ever again.
 
-These are definitely implementable, but would be very difficult to realize without support from you.
+These are definitely implementable, and the key ingredient is collaboration. I currently believe I'm a poor soul working on my own. Join me and prove me wrong!
 
 ## Structural improvements
+All those points above might sound beautiful, but getting things done isn't that easy. There's a lot of tiring preparation that must be done behind the scenes, and the following are a few improvements I plan to do to help literary activities flow smoothly.
 - Help improve the **online presence** for the Debate and Quiz clubs, especially the existing Instagram pages.
 - Bring together a **Design team** (as a part of the literary council) for making posters and logos for clubs and various events.
 - **Maintain a website** to update and keep track of all the work done. If you were wondering why in the world this manifesto is on a webpage, you can know more about it [here](/literary-manifesto/issues/1-manifesto-website). 
@@ -40,7 +41,7 @@ I'm fond of writing, and I'm even more fond of working with people and getting t
 
 I've been observing the growth of literary activities over time and while people have worked very hard to get them to the state they are now, there is still a lot of room for improvement, low volume of participation in events and the lack of a literary club being a few of them. Working with different kinds of teams and having understood the importance of documentation and being organized, I believe I can help things get better.
 
-You can read more about me [here](/literary-manifesto/about-me).
+You can read a *little* more about me [here](/literary-manifesto/about-me).
 
 ## Thank you
 These are ideas out in the open for *anyone* to use. I came up with some of them, some were collected from some thoughtful people. I think these are good ideas, but there is always room for improvement. In fact there's a whole lot of room for a whole lot of diverse ideas!
