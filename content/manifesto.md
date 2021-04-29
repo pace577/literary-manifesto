@@ -7,7 +7,7 @@ layout: mainpage
 
 I am Prabhat, a third year undergraduate student from the Electrical Engineering department (Batch of 2018). I am contesting for the post of Literary affairs secretary (LAS) in the Student Elections 2021-22 and this is my manifesto. 
 
-<!-- For those who are interested in my previous work, [this page](/about-me) describes some of it briefly. To know why the manifesto is on a web page, read [this](/issues/1-manifesto-website). -->
+<!-- For those who are interested in my previous work, [this page](/about-me) describes some of it briefly. To know why the manifesto is on a web page, read [this](/literary-manifesto/issues/1-manifesto-website). -->
 
 ## Intention
 The executive wing has done a very good job over the years in developing a literary environment in our college. We have a debating club, a quizzing club, a film club, a student newsletter, a good set of leisure reading books in the library, along with multiple literary events with prizes held around the year. My intention is to fine tune these establishments further, and introduce events to encourage participation and enable people to hone their skills on various literary fronts.
@@ -24,7 +24,7 @@ I want to make it clear that I don't want to make guarantees that I can't fulfil
   The aim is to conduct events for everyone, in different possible themes and languages.
   You all have your own ideas, and I'm someone who believes in the power of the collective. If you have some ideas and want to turn them into reality, then please contact me to do so!
 - Bring more opportunities for participation in **events outside the institute**.
-- Provide **opportunities to conduct events** to *any* interested student. Read more about this [here](/issues/2-decentralized-events).
+- Provide **opportunities to conduct events** to *any* interested student. Read more about this [here](/literary-manifesto/issues/2-decentralized-events).
 - If we happen to come back to the campus next semester, I'll try to bring together a **book sharing community**. There are so many book readers in our institute, even among the faculty. Once that's done, no one will have to worry about where to ask for book suggestions ever again.
 
 These are definitely implementable, but would be very difficult to realize without support from you.
@@ -32,7 +32,7 @@ These are definitely implementable, but would be very difficult to realize witho
 ## Structural improvements
 - Help improve the **online presence** for the Debate and Quiz clubs, especially the existing Instagram pages.
 - Bring together a **Design team** (as a part of the literary council) for making posters and logos for clubs and various events.
-- **Maintain a website** to update and keep track of all the work done. If you were wondering why in the world this manifesto is on a webpage, you can know more about it [here](/issues/1-manifesto-website). 
+- **Maintain a website** to update and keep track of all the work done. If you were wondering why in the world this manifesto is on a webpage, you can know more about it [here](/literary-manifesto/issues/1-manifesto-website). 
 
 ## Why vote for me?
 <!-- Because I'm determined and open-minded.  -->
@@ -40,7 +40,7 @@ I'm fond of writing, and I'm even more fond of working with people and getting t
 
 I've been observing the growth of literary activities over time and while people have worked very hard to get them to the state they are now, there is still a lot of room for improvement, low volume of participation in events and the lack of a literary club being a few of them. Working with different kinds of teams and having understood the importance of documentation and being organized, I believe I can help things get better.
 
-You can read more about me [here](/about-me).
+You can read more about me [here](/literary-manifesto/about-me).
 
 ## Thank you
 These are ideas out in the open for *anyone* to use. I came up with some of them, some were collected from some thoughtful people. I think these are good ideas, but there is always room for improvement. In fact there's a whole lot of room for a whole lot of diverse ideas!
