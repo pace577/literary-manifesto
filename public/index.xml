@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The LAS Manifesto</title>
+    <link>http://example.org/</link>
+    <description>Recent content on The LAS Manifesto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2021 14:18:09 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decentralized Events</title>
+      <link>http://example.org/issues/2-decentralized-events/</link>
+      <pubDate>Thu, 29 Apr 2021 14:18:09 +0530</pubDate>
+      
+      <guid>http://example.org/issues/2-decentralized-events/</guid>
+      <description>A lot of us are busy at different times in the semester. I have observed that many of you are interested in essay-writing, debates, JAMs, and want to participate in events/competitions held in the institute, but your academic schedule doesn&amp;rsquo;t accommodate your interests. What if you can organize an event yourself, however and whenever you like?
+With guidance from a literary affairs council member, any student in the institute will be able to organize an event with their own rules, with the date and topic/theme/language of their choice.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://example.org/about-me/</link>
+      <pubDate>Fri, 23 Apr 2021 16:29:45 +0530</pubDate>
+      
+      <guid>http://example.org/about-me/</guid>
+      <description>To me, writing isn&amp;rsquo;t just a means for communication. It&amp;rsquo;s a tool for retrospection, a mechanism for change. Words have the power to connect like minded people. And the best part is when the reader comes back and talks to you about what you wrote! I used to write stories and articles but end up not sharing them publicly. That ended with Udaan, and now I think I&amp;rsquo;ll keep sharing the pieces I write.</description>
+    </item>
+    
+    <item>
+      <title>More than a Manifesto</title>
+      <link>http://example.org/issues/1-manifesto-website/</link>
+      <pubDate>Fri, 23 Apr 2021 16:29:36 +0530</pubDate>
+      
+      <guid>http://example.org/issues/1-manifesto-website/</guid>
+      <description>This is not just a manifesto but also an evolving list of ideas, which means that new ideas are added, outdated ideas are scrapped, and all progress about it&amp;rsquo;s implementation is continuously updated. I chose a website over other alternatives as there is high potential for customizability, and we have no shortage of techies in our institute! I encourage everyone who likes this idea to make use of it yourself, and improve on it if possible!</description>
+    </item>
+    
+    <item>
+      <title>The Manifesto</title>
+      <link>http://example.org/manifesto/</link>
+      <pubDate>Fri, 23 Apr 2021 16:27:44 +0530</pubDate>
+      
+      <guid>http://example.org/manifesto/</guid>
+      <description>I am Prabhat, a third year undergraduate student from the Electrical Engineering department (Batch of 2018). I am contesting for the post of Literary affairs secretary (LAS) in the Student Elections 2021-22 and this is my manifesto.
+Intention The executive wing has done a very good job over the years in developing a literary environment in our college. We have a debating club, a quizzing club, a film club, a student newsletter, a good set of leisure reading books in the library, along with multiple literary events with prizes held around the year.</description>
+    </item>
+    
+  </channel>
+</rss>

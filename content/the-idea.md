@@ -1,7 +1,7 @@
 ---
 title: "The Idea"
 date: 2021-04-23T16:29:36+05:30
-draft: false
+draft: true
 layout: mainpage
 ---
 

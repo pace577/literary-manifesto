@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2021-04-23T16:29:45+05:30
-draft: False
+draft: false
 layout: mainpage
 ---
 
