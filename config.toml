@@ -1,0 +1,15 @@
+theme = "hyde"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The LAS Manifesto"
+
+[Menus]
+  main = [
+      {Name = "About me", URL = "/about-me"},
+  ]
+
+[params]
+  description = "Prabhat Reddy"
+  themeColor = "theme-base-08"
+  layoutReverse = false
+  copyright = "CC/SA"
